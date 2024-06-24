@@ -1,0 +1,5 @@
+name: AntiSpamChat
+version: '${project.version}'
+main: dev.tranducminh.antispamchat.AntiSpamChat
+api-version: '1.20'
+folia-supported: true
